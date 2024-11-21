@@ -1,0 +1,50 @@
+.font-bold>span {
+    font-weight: bold !important;
+}
+
+.editForm {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    gap: 1.5em;
+    padding: 2em;
+    color: #454545;
+}
+
+.MuiOutlinedInput-root {
+    border-radius: 0 !important;
+}
+
+.user-profile-picture {
+    width: 30px;
+    height: 30px;
+}
+
+.appbar-ui-style {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.MuiList-root,
+.MuiList-padding,
+.MuiMenu-list,
+.css-1toxriw-MuiList-root-MuiMenu-list {
+    border-radius: 0 !important;
+}
+
+.MuiPaper-root,
+.MuiPaper-elevation,
+.MuiPaper-rounded,
+.MuiPaper-elevation8,
+.MuiPopover-paper,
+.MuiMenu-paper,
+.MuiMenu-paper,
+.css-1tktgsa-MuiPaper-root-MuiPopover-paper-MuiMenu-paper {
+    border-radius: 0 !important;
+}
+
+.MuiList-padding{
+    padding: 0!important;
+}
